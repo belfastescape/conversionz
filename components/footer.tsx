@@ -37,11 +37,11 @@ export function Footer() {
           </p>
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
             <Link
-              href="mailto:hello@locksmithdigital.com"
+              href="mailto:hello@conversionz.io"
               className="flex items-center gap-2 text-muted-foreground hover:text-foreground transition-colors"
             >
               <Mail className="w-5 h-5" />
-              hello@locksmithdigital.com
+              hello@conversionz.io
             </Link>
             <span className="hidden sm:inline text-muted-foreground">|</span>
             <Link
@@ -63,7 +63,7 @@ export function Footer() {
                 <Key className="w-5 h-5 text-primary" />
               </div>
               <span className="text-xl font-semibold">
-                Locksmith <span className="text-primary">Digital</span>
+                convER<span className="text-primary">sionz.io</span>
               </span>
             </Link>
             <p className="text-sm text-muted-foreground">
@@ -126,7 +126,7 @@ export function Footer() {
         {/* Copyright */}
         <div className="pt-8 border-t border-border flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="text-sm text-muted-foreground">
-            © {new Date().getFullYear()} Locksmith Digital. All rights reserved.
+            © {new Date().getFullYear()} convERsionz.io. All rights reserved.
           </p>
           <p className="text-sm text-muted-foreground">
             Built with passion for the escape room industry.

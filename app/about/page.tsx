@@ -36,7 +36,7 @@ const timeline = [
   },
   {
     year: "2024",
-    title: "Launched Locksmith Digital",
+    title: "Launched convERsionz.io",
     description: "Turned years of experience into a dedicated service for escape room businesses."
   }
 ]
@@ -66,7 +66,7 @@ const values = [
   {
     icon: Users,
     title: "No Lock-In Contracts",
-    description: "Ironic given our name, but we believe you should stay because you want to."
+    description: "We believe you should stay because you want to — not because you're tied down."
   },
   {
     icon: MessageSquare,
@@ -132,7 +132,7 @@ export default function AboutPage() {
                   for help, I realized I wasn't alone in my frustration.
                 </p>
                 <p className="text-foreground mt-4 font-medium">
-                  Locksmith Digital exists because I've lived every challenge you're facing. 
+                  convERsionz.io exists because I've lived every challenge you're facing. 
                   Now I'm here to help you unlock your potential.
                 </p>
               </div>

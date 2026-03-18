@@ -28,7 +28,7 @@ export function Navigation() {
               <Key className="w-5 h-5 text-primary" />
             </div>
             <span className="text-xl font-semibold tracking-tight">
-              Locksmith <span className="text-primary">Digital</span>
+              convER<span className="text-primary">sionz.io</span>
             </span>
           </Link>
 

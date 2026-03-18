@@ -13,8 +13,8 @@ const contactInfo = [
   {
     icon: Mail,
     label: "Email us",
-    value: "hello@locksmithdigital.com",
-    href: "mailto:hello@locksmithdigital.com"
+    value: "hello@conversionz.io",
+    href: "mailto:hello@conversionz.io"
   },
   {
     icon: Phone,

@@ -3,7 +3,7 @@
 
 @custom-variant dark (&:is(.dark *));
 
-/* Locksmith Digital - Dark Escape Room Theme */
+/* convERsionz.io - Dark Escape Room Theme */
 :root {
   /* Using dark theme as default */
   --background: oklch(0.08 0.01 270);

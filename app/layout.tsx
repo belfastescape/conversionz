@@ -14,9 +14,9 @@ const playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  title: 'Locksmith Digital | Escape Room Website Design',
+  title: 'convERsionz.io | Escape Room Website Design',
   description: 'Built by someone who\'s been inside the room. Premium website design, SEO, and hosting for escape room businesses. 12+ years of industry experience.',
-  generator: 'Locksmith Digital',
+  generator: 'convERsionz.io',
   icons: {
     icon: [
       {
