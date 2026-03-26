@@ -13,12 +13,24 @@ export default function HomePage() {
     <main className="min-h-screen">
       <Navigation />
       <Hero />
-      <Marquee />
-      <ProblemSection />
-      <SolutionSection />
-      <ServicesSection />
-      <Testimonials />
-      <PricingTeaser />
+      <div className="cv-auto">
+        <Marquee />
+      </div>
+      <div className="cv-auto">
+        <ProblemSection />
+      </div>
+      <div className="cv-auto">
+        <SolutionSection />
+      </div>
+      <div className="cv-auto">
+        <ServicesSection />
+      </div>
+      <div className="cv-auto">
+        <Testimonials />
+      </div>
+      <div className="cv-auto">
+        <PricingTeaser />
+      </div>
       <Footer />
     </main>
   )

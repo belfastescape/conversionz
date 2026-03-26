@@ -195,3 +195,9 @@
   mask-composite: exclude;
   pointer-events: none;
 }
+
+/* Defer below-the-fold layout/paint work until needed. */
+.cv-auto {
+  content-visibility: auto;
+  contain-intrinsic-size: 1px 900px;
+}

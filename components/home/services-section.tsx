@@ -72,7 +72,7 @@ export function ServicesSection() {
                   href="/services"
                   className="inline-flex items-center text-sm text-primary hover:text-primary/80 transition-colors"
                 >
-                  Learn more
+                  Explore {service.title}
                   <ArrowRight className="ml-1 w-4 h-4 group-hover:translate-x-1 transition-transform" />
                 </Link>
               </div>
